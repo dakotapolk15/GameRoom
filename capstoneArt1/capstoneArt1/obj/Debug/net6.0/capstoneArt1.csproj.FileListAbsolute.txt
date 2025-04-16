@@ -1,0 +1,14 @@
+C:\Users\dakot\source\repos\capstoneArt1\capstoneArt1\obj\Debug\net6.0\capstoneArt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakot\source\repos\capstoneArt1\capstoneArt1\obj\Debug\net6.0\capstoneArt1.AssemblyInfoInputs.cache
+C:\Users\dakot\source\repos\capstoneArt1\capstoneArt1\obj\Debug\net6.0\capstoneArt1.AssemblyInfo.cs
+C:\Users\dakot\source\repos\capstoneArt1\capstoneArt1\obj\Debug\net6.0\capstoneArt1.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\capstoneArt1\capstoneArt1\bin\Debug\net6.0\capstoneArt1.exe
+C:\Users\dakot\source\repos\capstoneArt1\capstoneArt1\bin\Debug\net6.0\capstoneArt1.deps.json
+C:\Users\dakot\source\repos\capstoneArt1\capstoneArt1\bin\Debug\net6.0\capstoneArt1.runtimeconfig.json
+C:\Users\dakot\source\repos\capstoneArt1\capstoneArt1\bin\Debug\net6.0\capstoneArt1.dll
+C:\Users\dakot\source\repos\capstoneArt1\capstoneArt1\bin\Debug\net6.0\capstoneArt1.pdb
+C:\Users\dakot\source\repos\capstoneArt1\capstoneArt1\obj\Debug\net6.0\capstoneArt1.dll
+C:\Users\dakot\source\repos\capstoneArt1\capstoneArt1\obj\Debug\net6.0\refint\capstoneArt1.dll
+C:\Users\dakot\source\repos\capstoneArt1\capstoneArt1\obj\Debug\net6.0\capstoneArt1.pdb
+C:\Users\dakot\source\repos\capstoneArt1\capstoneArt1\obj\Debug\net6.0\capstoneArt1.genruntimeconfig.cache
+C:\Users\dakot\source\repos\capstoneArt1\capstoneArt1\obj\Debug\net6.0\ref\capstoneArt1.dll
